@@ -22,7 +22,7 @@ class TestActor < Test::Unit::TestCase
 
   # inspect
 
-  def test_inspect
+   def test_inspect
     a = Actor.from_string("Tom Werner <tom@example.com>")
     assert_equal %Q{#<Grit::Actor "Tom Werner <tom@example.com>">}, a.inspect
   end
