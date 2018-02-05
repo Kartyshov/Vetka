@@ -1,4 +1,4 @@
-# Test file
+# Test file (какой то)
 require File.dirname(__FILE__) + '/helper'
 
 class TestActor < Test::Unit::TestCase
