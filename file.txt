@@ -1,2 +1,3 @@
 New file
 Другое изменение
+He was in merge
