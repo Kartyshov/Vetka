@@ -1,3 +1,4 @@
 New file
 Другое изменение
 He was in merge
+i think, it will revert
